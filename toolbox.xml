@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
+  <category name="TCS34725" colour="#780779" icon="color">
+    <block type="block_create_TCS34725"/>
+    <block type="block_read_TCS34725"/>
+
+  </category>
+</xml>

@@ -1,0 +1,16 @@
+{
+    "name": "Cảm biến màu sắc tcs34725",
+    "description": "Cảm biến màu sắc tcs34725",
+    "libs": [
+        "tcs34725.py"
+    ],
+    "blocks": [
+        "definition.js"
+    ],
+    "toolbox": "toolbox.xml",
+    "languages": {
+        "en": "languages/en.js",
+        "vi": "languages/vi.js"
+    },
+    "poster": "poster.jpg"
+}
